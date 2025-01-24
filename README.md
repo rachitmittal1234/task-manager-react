@@ -18,7 +18,7 @@ The **React To-Do List App** is a simple yet elegant task management tool design
 
 ## 🚀 Live Demo
 
-[Check out the live demo here](https://<your-username>.github.io/<repository-name>/)
+[Check out the live demo here](https://rachitmittal1234.github.io/task-manager-react/)
 
 ---
 
